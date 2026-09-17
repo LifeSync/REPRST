@@ -42,13 +42,3 @@
 
 ### 📁 СКАЧАТЬ СБОРКУ REPRST
 📥 **[ЖМИ СЮДА, ЧТОБЫ СКАЧАТЬ ПОСЛЕДНЮЮ БЕТА-ВЕРСИЮ (.ZIP)](https://github.com)**
-
-
-
-https://github.com/user-attachments/assets/96dab6c0-a9c8-48e7-bf6b-f6c7440650bb
-
-
-<p align="center">
-  <video src="https://github.com" width="85%" controls></video>
-</p>
-
