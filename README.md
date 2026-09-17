@@ -38,3 +38,9 @@
 
 ### 📁 СКАЧАТЬ СБОРКУ REPRST
 📥 **[ЖМИ СЮДА, ЧТОБЫ СКАЧАТЬ ПОСЛЕДНЮЮ БЕТА-ВЕРСИЮ (.ZIP)](https://github.com)**
+
+
+<p align="center">
+  <video src="https://github.com" width="85%" controls></video>
+</p>
+
